@@ -190,3 +190,4 @@ C:\Users\windows10\avanadi-desafio\Estoque.Api\bin\Debug\net9.0\Microsoft.AspNet
 C:\Users\windows10\avanadi-desafio\Estoque.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\windows10\avanadi-desafio\Estoque.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\windows10\avanadi-desafio\Estoque.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\windows10\avanadi-desafio\Estoque.Api\obj\Debug\net9.0\Estoque.Api.sourcelink.json
